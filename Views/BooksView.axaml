@@ -1,0 +1,32 @@
+<UserControl xmlns="https://github.com/avaloniaui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:vm="clr-namespace:MyLibrary.ViewModels"
+             xmlns:models="clr-namespace:MyLibrary.Models"
+             x:Class="MyLibrary.Views.BooksView"
+             x:DataType="vm:BooksViewModel">
+    <Grid Margin="24">
+        <StackPanel Spacing="16">
+            <TextBlock Text="Books Management" FontSize="22" FontWeight="Bold"/>
+            <StackPanel Orientation="Horizontal" Spacing="12" Margin="0,0,0,8">
+                <TextBox Width="180" Watermark="Filter by author..." Text="{Binding AuthorFilter, Mode=TwoWay}"/>
+                <TextBox Width="90" Watermark="Year from" Text="{Binding YearFromFilterText, Mode=TwoWay}"/>
+                <TextBox Width="90" Watermark="Year to" Text="{Binding YearToFilterText, Mode=TwoWay}"/>
+                <Button Content="Clear Filters" Command="{Binding ClearFiltersCommand}" Classes="fluent"/>
+            </StackPanel>
+            <DataGrid ItemsSource="{Binding Books}" AutoGenerateColumns="False" Height="320" SelectionMode="Single" Classes="fluent" SelectedItem="{Binding SelectedBook, Mode=TwoWay}">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="ID" Binding="{Binding BookID}" Width="Auto" x:DataType="models:Book"/>
+                    <DataGridTextColumn Header="Title" Binding="{Binding Title}" Width="*" x:DataType="models:Book"/>
+                    <DataGridTextColumn Header="Author" Binding="{Binding Author}" Width="Auto" x:DataType="models:Book"/>
+                    <DataGridTextColumn Header="Year" Binding="{Binding Year}" Width="Auto" x:DataType="models:Book"/>
+                    <DataGridTextColumn Header="Available" Binding="{Binding AvailableCopies}" Width="Auto" x:DataType="models:Book"/>
+                </DataGrid.Columns>
+            </DataGrid>
+            <StackPanel Orientation="Horizontal" Spacing="8" HorizontalAlignment="Right">
+                <Button Content="Add Book" Classes="Accent,fluent" Click="AddBook_Click"/>
+                <Button Content="Edit Book" Classes="fluent" Click="EditBook_Click"/>
+                <Button Content="Delete Book" Classes="fluent" Click="DeleteBook_Click"/>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</UserControl>

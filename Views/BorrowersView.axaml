@@ -1,0 +1,27 @@
+<UserControl xmlns="https://github.com/avaloniaui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:vm="clr-namespace:MyLibrary.ViewModels"
+             xmlns:models="clr-namespace:MyLibrary.Models"
+             x:Class="MyLibrary.Views.BorrowersView"
+             x:DataType="vm:BorrowersViewModel">
+    <Grid Margin="24">
+        <StackPanel Spacing="16">
+            <TextBlock Text="Borrowers Management" FontSize="22" FontWeight="Bold"/>
+            <DataGrid ItemsSource="{Binding Borrowers}" AutoGenerateColumns="False" Height="320" SelectionMode="Single" Classes="fluent" SelectedItem="{Binding SelectedBorrower, Mode=TwoWay}">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="ID" Binding="{Binding BorrowerID}" Width="60" x:DataType="models:Borrower"/>
+                    <DataGridTextColumn Header="Name" Binding="{Binding Name}" Width="*" x:DataType="models:Borrower"/>
+                    <DataGridTextColumn Header="Email" Binding="{Binding Email}" Width="200" x:DataType="models:Borrower"/>
+                    <DataGridTextColumn Header="Phone" Binding="{Binding Phone}" Width="150" x:DataType="models:Borrower"/>
+                </DataGrid.Columns>
+            </DataGrid>
+            <TextBlock Text="{Binding ErrorMessage}" Foreground="#D32F2F" FontSize="13" Margin="0,4,0,0"
+                       IsVisible="{Binding ErrorMessage, Converter={StaticResource StringNotNullOrEmptyToBoolConverter}}"/>
+            <StackPanel Orientation="Horizontal" Spacing="8" HorizontalAlignment="Right">
+                <Button Content="Add Borrower" Classes="Accent,fluent" Click="AddBorrower_Click"/>
+                <Button Content="Edit Borrower" Classes="fluent" Click="EditBorrower_Click"/>
+                <Button Content="Delete Borrower" Classes="fluent" Click="DeleteBorrower_Click"/>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</UserControl>

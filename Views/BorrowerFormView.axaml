@@ -1,0 +1,19 @@
+<UserControl xmlns="https://github.com/avaloniaui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:vm="clr-namespace:MyLibrary.ViewModels"
+             x:Class="MyLibrary.Views.BorrowerFormView"
+             x:DataType="vm:BorrowerFormViewModel">
+    <Grid Margin="24">
+        <StackPanel Spacing="16">
+            <StackPanel Spacing="12">
+                <TextBox Watermark="Name" Text="{Binding Name, Mode=TwoWay}" Classes="fluent"/>
+                <TextBox Watermark="Email" Text="{Binding Email, Mode=TwoWay}" Classes="fluent"/>
+                <TextBox Watermark="Phone" Text="{Binding Phone, Mode=TwoWay}" Classes="fluent"/>
+            </StackPanel>
+            <TextBlock Text="{Binding ErrorMessage}" Foreground="#D32F2F" FontSize="13" 
+                       IsVisible="{Binding ErrorMessage, Converter={StaticResource StringNotNullOrEmptyToBoolConverter}}"/>
+            <Button Content="Save" Command="{Binding SaveCommand}" Classes="Accent,fluent" 
+                    HorizontalAlignment="Right" MinWidth="100"/>
+        </StackPanel>
+    </Grid>
+</UserControl>

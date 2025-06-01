@@ -1,0 +1,27 @@
+<UserControl xmlns="https://github.com/avaloniaui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:vm="clr-namespace:MyLibrary.ViewModels"
+             xmlns:models="clr-namespace:MyLibrary.Models"
+             x:Class="MyLibrary.Views.IssuedBooksView"
+             x:DataType="vm:IssuedBooksViewModel">
+    <Grid Margin="24">
+        <StackPanel Spacing="16">
+            <TextBlock Text="Issued Books" FontSize="22" FontWeight="Bold"/>
+            <DataGrid ItemsSource="{Binding IssuedBooks}" AutoGenerateColumns="False" Height="320" SelectionMode="Single" Classes="fluent" SelectedItem="{Binding SelectedIssuedBook, Mode=TwoWay}">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="ID" Binding="{Binding IssueID}" Width="Auto" x:DataType="models:IssuedBook"/>
+                    <DataGridTextColumn Header="Book" Binding="{Binding Book.Title}" Width="*" x:DataType="models:IssuedBook"/>
+                    <DataGridTextColumn Header="Borrower" Binding="{Binding Borrower.Name}" Width="Auto" x:DataType="models:IssuedBook"/>
+                    <DataGridTextColumn Header="Issue Date" Binding="{Binding IssueDate, StringFormat='{}{0:yyyy-MM-dd}'}" Width="Auto" x:DataType="models:IssuedBook"/>
+                    <DataGridTextColumn Header="Due Date" Binding="{Binding DueDate, StringFormat='{}{0:yyyy-MM-dd}'}" Width="Auto" x:DataType="models:IssuedBook"/>
+                    <DataGridTextColumn Header="Return Date" Binding="{Binding ReturnDate, Converter={StaticResource ReturnDateToStringConverter}}" Width="Auto" x:DataType="models:IssuedBook"/>
+                    <DataGridTextColumn Header="Status" Binding="{Binding StatusText}" Width="Auto" x:DataType="models:IssuedBook"/>
+                </DataGrid.Columns>
+            </DataGrid>
+            <StackPanel Orientation="Horizontal" Spacing="8" HorizontalAlignment="Right">
+                <Button Content="Issue Book" Classes="Accent,fluent" Click="IssueBook_Click"/>
+                <Button Content="Return Book" Classes="fluent" Command="{Binding ReturnBookCommand}"/>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</UserControl> 

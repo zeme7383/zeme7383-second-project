@@ -1,0 +1,21 @@
+<UserControl xmlns="https://github.com/avaloniaui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:vm="clr-namespace:MyLibrary.ViewModels"
+             xmlns:models="clr-namespace:MyLibrary.Models"
+             x:Class="MyLibrary.Views.ReportsView"
+             x:DataType="vm:ReportsViewModel">
+    <Grid Margin="24">
+        <StackPanel Spacing="16">
+            <TextBlock Text="Overdue Books Report" FontSize="22" FontWeight="Bold"/>
+            <DataGrid ItemsSource="{Binding OverdueBooks}" AutoGenerateColumns="False" Height="320" Classes="fluent">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="Book" Binding="{Binding Book.Title}" Width="*" x:DataType="models:IssuedBook"/>
+                    <DataGridTextColumn Header="Borrower" Binding="{Binding Borrower.Name}" Width="Auto" x:DataType="models:IssuedBook"/>
+                    <DataGridTextColumn Header="Issue Date" Binding="{Binding IssueDate, StringFormat='{}{0:yyyy-MM-dd}'}" Width="Auto" x:DataType="models:IssuedBook"/>
+                    <DataGridTextColumn Header="Due Date" Binding="{Binding DueDate, StringFormat='{}{0:yyyy-MM-dd}'}" Width="Auto" x:DataType="models:IssuedBook"/>
+                    <DataGridTextColumn Header="Status" Binding="{Binding StatusText}" Width="Auto" x:DataType="models:IssuedBook"/>
+                </DataGrid.Columns>
+            </DataGrid>
+        </StackPanel>
+    </Grid>
+</UserControl>

@@ -1,0 +1,25 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:vm="clr-namespace:MyLibrary.ViewModels"
+        xmlns:views="clr-namespace:MyLibrary.Views"
+        x:Class="MyLibrary.Views.MainWindow"
+        x:DataType="vm:MainWindowViewModel"
+        Icon="/Assets/avalonia-logo.ico"
+        Title="MyLibrary"
+        Width="800" Height="600"
+        WindowStartupLocation="CenterScreen">
+    <Window.Styles>
+        <FluentTheme />
+    </Window.Styles>
+    <TabControl Classes="fluent">
+        <TabItem Header="Books">
+            <views:BooksView DataContext="{Binding BooksViewModel}"/>
+        </TabItem>
+        <TabItem Header="Borrowers">
+            <views:BorrowersView DataContext="{Binding BorrowersViewModel}"/>
+        </TabItem>
+        <TabItem Header="Issued Books">
+            <views:IssuedBooksView DataContext="{Binding IssuedBooksViewModel}"/>
+        </TabItem>
+    </TabControl>
+</Window>

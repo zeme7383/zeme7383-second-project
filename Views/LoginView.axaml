@@ -1,0 +1,40 @@
+<UserControl xmlns="https://github.com/avaloniaui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:vm="clr-namespace:MyLibrary.ViewModels"
+             xmlns:helpers="clr-namespace:MyLibrary.Helpers"
+             x:Class="MyLibrary.Views.LoginView"
+             x:DataType="vm:LoginViewModel">
+    <UserControl.Resources>
+        <helpers:StringNotNullOrEmptyToBoolConverter x:Key="StringNotNullOrEmptyToBoolConverter" />
+        <helpers:BooleanToPasswordCharConverter x:Key="BooleanToPasswordCharConverter" />
+        <helpers:BooleanToEyeIconConverter x:Key="BooleanToEyeIconConverter" />
+        <helpers:ShowPasswordToIconGeometryConverter x:Key="ShowPasswordToIconGeometryConverter" />
+    </UserControl.Resources>
+    <Grid>
+        <Border MinWidth="400" Padding="36" CornerRadius="18" Background="#FFF" VerticalAlignment="Center" HorizontalAlignment="Center" BoxShadow="0 4 24 0 #0003">
+            <StackPanel Spacing="28">
+                <StackPanel Spacing="8" HorizontalAlignment="Center">
+                    <Image Source="avares://MyLibrary/Assets/avalonia-logo.ico" Width="48" Height="48" Margin="0,0,0,4"/>
+                    <TextBlock Text="Welcome to MyLibrary" FontSize="28" FontWeight="Bold" HorizontalAlignment="Center"/>
+                    <TextBlock Text="Sign in to continue" FontSize="15" Foreground="#888" HorizontalAlignment="Center"/>
+                </StackPanel>
+                <StackPanel Spacing="18">
+                    <TextBox Watermark="Username" MinWidth="240" Height="44" CornerRadius="8" Text="{Binding Username, Mode=TwoWay}" Classes="fluent"/>
+                    <Grid ColumnDefinitions="*,Auto" Height="44">
+                        <TextBox Watermark="Password" MinWidth="240" Height="44" CornerRadius="8" 
+                                 Text="{Binding Password, Mode=TwoWay}" Classes="fluent"
+                                 PasswordChar="{Binding ShowPassword, Converter={StaticResource BooleanToPasswordCharConverter}}"/>
+                        <Button Grid.Column="1" Width="36" Height="36" Margin="-40,4,0,4" HorizontalAlignment="Right" VerticalAlignment="Center"
+                                Command="{Binding ToggleShowPasswordCommand}">
+                            <Path Width="20" Height="20" Stretch="Uniform"
+                                  Data="{Binding ShowPassword, Converter={StaticResource ShowPasswordToIconGeometryConverter}}"
+                                  Fill="#888"/>
+                        </Button>
+                    </Grid>
+                </StackPanel>
+                <TextBlock Text="{Binding ErrorMessage}" Foreground="#D32F2F" FontSize="13" HorizontalAlignment="Center" IsVisible="{Binding ErrorMessage, Converter={StaticResource StringNotNullOrEmptyToBoolConverter}}"/>
+                <Button Content="Login" Command="{Binding LoginCommand}" Height="44" CornerRadius="8" Classes="Accent,fluent" FontWeight="SemiBold" FontSize="16"/>
+            </StackPanel>
+        </Border>
+    </Grid>
+</UserControl>
