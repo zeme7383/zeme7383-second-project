@@ -1,0 +1,295 @@
+/home/ermias/Documents/Codes/csharp/MyLibrary/bin/Debug/net9.0/MyLibrary
+/home/ermias/Documents/Codes/csharp/MyLibrary/bin/Debug/net9.0/MyLibrary.deps.json
+/home/ermias/Documents/Codes/csharp/MyLibrary/bin/Debug/net9.0/MyLibrary.runtimeconfig.json
+/home/ermias/Documents/Codes/csharp/MyLibrary/bin/Debug/net9.0/MyLibrary.dll
+/home/ermias/Documents/Codes/csharp/MyLibrary/bin/Debug/net9.0/MyLibrary.pdb
+/home/ermias/Documents/Codes/csharp/MyLibrary/bin/Debug/net9.0/Avalonia.Base.dll
+/home/ermias/Documents/Codes/csharp/MyLibrary/bin/Debug/net9.0/Avalonia.Controls.dll
+/home/ermias/Documents/Codes/csharp/MyLibrary/bin/Debug/net9.0/Avalonia.DesignerSupport.dll
+/home/ermias/Documents/Codes/csharp/MyLibrary/bin/Debug/net9.0/Avalonia.Dialogs.dll
+/home/ermias/Documents/Codes/csharp/MyLibrary/bin/Debug/net9.0/Avalonia.Markup.Xaml.dll
+/home/ermias/Documents/Codes/csharp/MyLibrary/bin/Debug/net9.0/Avalonia.Markup.dll
+/home/ermias/Documents/Codes/csharp/MyLibrary/bin/Debug/net9.0/Avalonia.Metal.dll
+/home/ermias/Documents/Codes/csharp/MyLibrary/bin/Debug/net9.0/Avalonia.MicroCom.dll
+/home/ermias/Documents/Codes/csharp/MyLibrary/bin/Debug/net9.0/Avalonia.OpenGL.dll
+/home/ermias/Documents/Codes/csharp/MyLibrary/bin/Debug/net9.0/Avalonia.Vulkan.dll
+/home/ermias/Documents/Codes/csharp/MyLibrary/bin/Debug/net9.0/Avalonia.dll
+/home/ermias/Documents/Codes/csharp/MyLibrary/bin/Debug/net9.0/Avalonia.Controls.ColorPicker.dll
+/home/ermias/Documents/Codes/csharp/MyLibrary/bin/Debug/net9.0/Avalonia.Controls.DataGrid.dll
+/home/ermias/Documents/Codes/csharp/MyLibrary/bin/Debug/net9.0/Avalonia.Desktop.dll
+/home/ermias/Documents/Codes/csharp/MyLibrary/bin/Debug/net9.0/Avalonia.Diagnostics.dll
+/home/ermias/Documents/Codes/csharp/MyLibrary/bin/Debug/net9.0/Avalonia.Fonts.Inter.dll
+/home/ermias/Documents/Codes/csharp/MyLibrary/bin/Debug/net9.0/Avalonia.FreeDesktop.dll
+/home/ermias/Documents/Codes/csharp/MyLibrary/bin/Debug/net9.0/Avalonia.Native.dll
+/home/ermias/Documents/Codes/csharp/MyLibrary/bin/Debug/net9.0/Avalonia.ReactiveUI.dll
+/home/ermias/Documents/Codes/csharp/MyLibrary/bin/Debug/net9.0/Avalonia.Remote.Protocol.dll
+/home/ermias/Documents/Codes/csharp/MyLibrary/bin/Debug/net9.0/Avalonia.Skia.dll
+/home/ermias/Documents/Codes/csharp/MyLibrary/bin/Debug/net9.0/Avalonia.Themes.Fluent.dll
+/home/ermias/Documents/Codes/csharp/MyLibrary/bin/Debug/net9.0/Avalonia.Themes.Simple.dll
+/home/ermias/Documents/Codes/csharp/MyLibrary/bin/Debug/net9.0/Avalonia.Win32.Automation.dll
+/home/ermias/Documents/Codes/csharp/MyLibrary/bin/Debug/net9.0/Avalonia.Win32.dll
+/home/ermias/Documents/Codes/csharp/MyLibrary/bin/Debug/net9.0/Avalonia.X11.dll
+/home/ermias/Documents/Codes/csharp/MyLibrary/bin/Debug/net9.0/CommunityToolkit.Mvvm.dll
+/home/ermias/Documents/Codes/csharp/MyLibrary/bin/Debug/net9.0/DynamicData.dll
+/home/ermias/Documents/Codes/csharp/MyLibrary/bin/Debug/net9.0/HarfBuzzSharp.dll
+/home/ermias/Documents/Codes/csharp/MyLibrary/bin/Debug/net9.0/MicroCom.Runtime.dll
+/home/ermias/Documents/Codes/csharp/MyLibrary/bin/Debug/net9.0/Microsoft.Data.Sqlite.dll
+/home/ermias/Documents/Codes/csharp/MyLibrary/bin/Debug/net9.0/ReactiveUI.dll
+/home/ermias/Documents/Codes/csharp/MyLibrary/bin/Debug/net9.0/SkiaSharp.dll
+/home/ermias/Documents/Codes/csharp/MyLibrary/bin/Debug/net9.0/Splat.dll
+/home/ermias/Documents/Codes/csharp/MyLibrary/bin/Debug/net9.0/SQLitePCLRaw.batteries_v2.dll
+/home/ermias/Documents/Codes/csharp/MyLibrary/bin/Debug/net9.0/SQLitePCLRaw.core.dll
+/home/ermias/Documents/Codes/csharp/MyLibrary/bin/Debug/net9.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/home/ermias/Documents/Codes/csharp/MyLibrary/bin/Debug/net9.0/System.Reactive.dll
+/home/ermias/Documents/Codes/csharp/MyLibrary/bin/Debug/net9.0/Tmds.DBus.Protocol.dll
+/home/ermias/Documents/Codes/csharp/MyLibrary/bin/Debug/net9.0/runtimes/win-arm64/native/av_libglesv2.dll
+/home/ermias/Documents/Codes/csharp/MyLibrary/bin/Debug/net9.0/runtimes/win-x64/native/av_libglesv2.dll
+/home/ermias/Documents/Codes/csharp/MyLibrary/bin/Debug/net9.0/runtimes/win-x86/native/av_libglesv2.dll
+/home/ermias/Documents/Codes/csharp/MyLibrary/bin/Debug/net9.0/runtimes/osx/native/libAvaloniaNative.dylib
+/home/ermias/Documents/Codes/csharp/MyLibrary/bin/Debug/net9.0/runtimes/linux-arm/native/libHarfBuzzSharp.so
+/home/ermias/Documents/Codes/csharp/MyLibrary/bin/Debug/net9.0/runtimes/linux-arm64/native/libHarfBuzzSharp.so
+/home/ermias/Documents/Codes/csharp/MyLibrary/bin/Debug/net9.0/runtimes/linux-musl-x64/native/libHarfBuzzSharp.so
+/home/ermias/Documents/Codes/csharp/MyLibrary/bin/Debug/net9.0/runtimes/linux-x64/native/libHarfBuzzSharp.so
+/home/ermias/Documents/Codes/csharp/MyLibrary/bin/Debug/net9.0/runtimes/osx/native/libHarfBuzzSharp.dylib
+/home/ermias/Documents/Codes/csharp/MyLibrary/bin/Debug/net9.0/runtimes/win-arm64/native/libHarfBuzzSharp.dll
+/home/ermias/Documents/Codes/csharp/MyLibrary/bin/Debug/net9.0/runtimes/win-x64/native/libHarfBuzzSharp.dll
+/home/ermias/Documents/Codes/csharp/MyLibrary/bin/Debug/net9.0/runtimes/win-x86/native/libHarfBuzzSharp.dll
+/home/ermias/Documents/Codes/csharp/MyLibrary/bin/Debug/net9.0/runtimes/linux-arm/native/libSkiaSharp.so
+/home/ermias/Documents/Codes/csharp/MyLibrary/bin/Debug/net9.0/runtimes/linux-arm64/native/libSkiaSharp.so
+/home/ermias/Documents/Codes/csharp/MyLibrary/bin/Debug/net9.0/runtimes/linux-musl-x64/native/libSkiaSharp.so
+/home/ermias/Documents/Codes/csharp/MyLibrary/bin/Debug/net9.0/runtimes/linux-x64/native/libSkiaSharp.so
+/home/ermias/Documents/Codes/csharp/MyLibrary/bin/Debug/net9.0/runtimes/osx/native/libSkiaSharp.dylib
+/home/ermias/Documents/Codes/csharp/MyLibrary/bin/Debug/net9.0/runtimes/win-arm64/native/libSkiaSharp.dll
+/home/ermias/Documents/Codes/csharp/MyLibrary/bin/Debug/net9.0/runtimes/win-x64/native/libSkiaSharp.dll
+/home/ermias/Documents/Codes/csharp/MyLibrary/bin/Debug/net9.0/runtimes/win-x86/native/libSkiaSharp.dll
+/home/ermias/Documents/Codes/csharp/MyLibrary/bin/Debug/net9.0/runtimes/browser-wasm/nativeassets/net9.0/e_sqlite3.a
+/home/ermias/Documents/Codes/csharp/MyLibrary/bin/Debug/net9.0/runtimes/linux-arm/native/libe_sqlite3.so
+/home/ermias/Documents/Codes/csharp/MyLibrary/bin/Debug/net9.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/home/ermias/Documents/Codes/csharp/MyLibrary/bin/Debug/net9.0/runtimes/linux-armel/native/libe_sqlite3.so
+/home/ermias/Documents/Codes/csharp/MyLibrary/bin/Debug/net9.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/home/ermias/Documents/Codes/csharp/MyLibrary/bin/Debug/net9.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/home/ermias/Documents/Codes/csharp/MyLibrary/bin/Debug/net9.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/home/ermias/Documents/Codes/csharp/MyLibrary/bin/Debug/net9.0/runtimes/linux-musl-s390x/native/libe_sqlite3.so
+/home/ermias/Documents/Codes/csharp/MyLibrary/bin/Debug/net9.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/home/ermias/Documents/Codes/csharp/MyLibrary/bin/Debug/net9.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+/home/ermias/Documents/Codes/csharp/MyLibrary/bin/Debug/net9.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/home/ermias/Documents/Codes/csharp/MyLibrary/bin/Debug/net9.0/runtimes/linux-x64/native/libe_sqlite3.so
+/home/ermias/Documents/Codes/csharp/MyLibrary/bin/Debug/net9.0/runtimes/linux-x86/native/libe_sqlite3.so
+/home/ermias/Documents/Codes/csharp/MyLibrary/bin/Debug/net9.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/home/ermias/Documents/Codes/csharp/MyLibrary/bin/Debug/net9.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/home/ermias/Documents/Codes/csharp/MyLibrary/bin/Debug/net9.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/home/ermias/Documents/Codes/csharp/MyLibrary/bin/Debug/net9.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/home/ermias/Documents/Codes/csharp/MyLibrary/bin/Debug/net9.0/runtimes/win-arm/native/e_sqlite3.dll
+/home/ermias/Documents/Codes/csharp/MyLibrary/bin/Debug/net9.0/runtimes/win-arm64/native/e_sqlite3.dll
+/home/ermias/Documents/Codes/csharp/MyLibrary/bin/Debug/net9.0/runtimes/win-x64/native/e_sqlite3.dll
+/home/ermias/Documents/Codes/csharp/MyLibrary/bin/Debug/net9.0/runtimes/win-x86/native/e_sqlite3.dll
+/home/ermias/Documents/Codes/csharp/MyLibrary/obj/Debug/net9.0/MyLibrary.csproj.AssemblyReference.cache
+/home/ermias/Documents/Codes/csharp/MyLibrary/obj/Debug/net9.0/Avalonia/Resources.Inputs.cache
+/home/ermias/Documents/Codes/csharp/MyLibrary/obj/Debug/net9.0/Avalonia/resources
+/home/ermias/Documents/Codes/csharp/MyLibrary/obj/Debug/net9.0/MyLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/home/ermias/Documents/Codes/csharp/MyLibrary/obj/Debug/net9.0/MyLibrary.AssemblyInfoInputs.cache
+/home/ermias/Documents/Codes/csharp/MyLibrary/obj/Debug/net9.0/MyLibrary.AssemblyInfo.cs
+/home/ermias/Documents/Codes/csharp/MyLibrary/obj/Debug/net9.0/MyLibrary.csproj.CoreCompileInputs.cache
+/home/ermias/Documents/Codes/csharp/MyLibrary/obj/Debug/net9.0/MyLibrary.csproj.Up2Date
+/home/ermias/Documents/Codes/csharp/MyLibrary/obj/Debug/net9.0/MyLibrary.dll
+/home/ermias/Documents/Codes/csharp/MyLibrary/obj/Debug/net9.0/refint/MyLibrary.dll
+/home/ermias/Documents/Codes/csharp/MyLibrary/obj/Debug/net9.0/MyLibrary.pdb
+/home/ermias/Documents/Codes/csharp/MyLibrary/obj/Debug/net9.0/MyLibrary.genruntimeconfig.cache
+/home/ermias/Documents/Codes/csharp/MyLibrary/obj/Debug/net9.0/ref/MyLibrary.dll
+/home/ermias/Documents/Codes/csharp/MyLibrary/bin/Debug/net9.0/Dapper.dll
+/home/ermias/Documents/Codes/csharp/tmp/MyLibraryApp/bin/Debug/net9.0/MyLibrary
+/home/ermias/Documents/Codes/csharp/tmp/MyLibraryApp/bin/Debug/net9.0/MyLibrary.deps.json
+/home/ermias/Documents/Codes/csharp/tmp/MyLibraryApp/bin/Debug/net9.0/MyLibrary.runtimeconfig.json
+/home/ermias/Documents/Codes/csharp/tmp/MyLibraryApp/bin/Debug/net9.0/MyLibrary.dll
+/home/ermias/Documents/Codes/csharp/tmp/MyLibraryApp/bin/Debug/net9.0/MyLibrary.pdb
+/home/ermias/Documents/Codes/csharp/tmp/MyLibraryApp/bin/Debug/net9.0/Avalonia.Base.dll
+/home/ermias/Documents/Codes/csharp/tmp/MyLibraryApp/bin/Debug/net9.0/Avalonia.Controls.dll
+/home/ermias/Documents/Codes/csharp/tmp/MyLibraryApp/bin/Debug/net9.0/Avalonia.DesignerSupport.dll
+/home/ermias/Documents/Codes/csharp/tmp/MyLibraryApp/bin/Debug/net9.0/Avalonia.Dialogs.dll
+/home/ermias/Documents/Codes/csharp/tmp/MyLibraryApp/bin/Debug/net9.0/Avalonia.Markup.Xaml.dll
+/home/ermias/Documents/Codes/csharp/tmp/MyLibraryApp/bin/Debug/net9.0/Avalonia.Markup.dll
+/home/ermias/Documents/Codes/csharp/tmp/MyLibraryApp/bin/Debug/net9.0/Avalonia.Metal.dll
+/home/ermias/Documents/Codes/csharp/tmp/MyLibraryApp/bin/Debug/net9.0/Avalonia.MicroCom.dll
+/home/ermias/Documents/Codes/csharp/tmp/MyLibraryApp/bin/Debug/net9.0/Avalonia.OpenGL.dll
+/home/ermias/Documents/Codes/csharp/tmp/MyLibraryApp/bin/Debug/net9.0/Avalonia.Vulkan.dll
+/home/ermias/Documents/Codes/csharp/tmp/MyLibraryApp/bin/Debug/net9.0/Avalonia.dll
+/home/ermias/Documents/Codes/csharp/tmp/MyLibraryApp/bin/Debug/net9.0/Avalonia.Controls.ColorPicker.dll
+/home/ermias/Documents/Codes/csharp/tmp/MyLibraryApp/bin/Debug/net9.0/Avalonia.Controls.DataGrid.dll
+/home/ermias/Documents/Codes/csharp/tmp/MyLibraryApp/bin/Debug/net9.0/Avalonia.Desktop.dll
+/home/ermias/Documents/Codes/csharp/tmp/MyLibraryApp/bin/Debug/net9.0/Avalonia.Diagnostics.dll
+/home/ermias/Documents/Codes/csharp/tmp/MyLibraryApp/bin/Debug/net9.0/Avalonia.Fonts.Inter.dll
+/home/ermias/Documents/Codes/csharp/tmp/MyLibraryApp/bin/Debug/net9.0/Avalonia.FreeDesktop.dll
+/home/ermias/Documents/Codes/csharp/tmp/MyLibraryApp/bin/Debug/net9.0/Avalonia.Native.dll
+/home/ermias/Documents/Codes/csharp/tmp/MyLibraryApp/bin/Debug/net9.0/Avalonia.ReactiveUI.dll
+/home/ermias/Documents/Codes/csharp/tmp/MyLibraryApp/bin/Debug/net9.0/Avalonia.Remote.Protocol.dll
+/home/ermias/Documents/Codes/csharp/tmp/MyLibraryApp/bin/Debug/net9.0/Avalonia.Skia.dll
+/home/ermias/Documents/Codes/csharp/tmp/MyLibraryApp/bin/Debug/net9.0/Avalonia.Themes.Fluent.dll
+/home/ermias/Documents/Codes/csharp/tmp/MyLibraryApp/bin/Debug/net9.0/Avalonia.Themes.Simple.dll
+/home/ermias/Documents/Codes/csharp/tmp/MyLibraryApp/bin/Debug/net9.0/Avalonia.Win32.Automation.dll
+/home/ermias/Documents/Codes/csharp/tmp/MyLibraryApp/bin/Debug/net9.0/Avalonia.Win32.dll
+/home/ermias/Documents/Codes/csharp/tmp/MyLibraryApp/bin/Debug/net9.0/Avalonia.X11.dll
+/home/ermias/Documents/Codes/csharp/tmp/MyLibraryApp/bin/Debug/net9.0/CommunityToolkit.Mvvm.dll
+/home/ermias/Documents/Codes/csharp/tmp/MyLibraryApp/bin/Debug/net9.0/DynamicData.dll
+/home/ermias/Documents/Codes/csharp/tmp/MyLibraryApp/bin/Debug/net9.0/HarfBuzzSharp.dll
+/home/ermias/Documents/Codes/csharp/tmp/MyLibraryApp/bin/Debug/net9.0/MicroCom.Runtime.dll
+/home/ermias/Documents/Codes/csharp/tmp/MyLibraryApp/bin/Debug/net9.0/Microsoft.Data.Sqlite.dll
+/home/ermias/Documents/Codes/csharp/tmp/MyLibraryApp/bin/Debug/net9.0/ReactiveUI.dll
+/home/ermias/Documents/Codes/csharp/tmp/MyLibraryApp/bin/Debug/net9.0/SkiaSharp.dll
+/home/ermias/Documents/Codes/csharp/tmp/MyLibraryApp/bin/Debug/net9.0/Splat.dll
+/home/ermias/Documents/Codes/csharp/tmp/MyLibraryApp/bin/Debug/net9.0/SQLitePCLRaw.batteries_v2.dll
+/home/ermias/Documents/Codes/csharp/tmp/MyLibraryApp/bin/Debug/net9.0/SQLitePCLRaw.core.dll
+/home/ermias/Documents/Codes/csharp/tmp/MyLibraryApp/bin/Debug/net9.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/home/ermias/Documents/Codes/csharp/tmp/MyLibraryApp/bin/Debug/net9.0/System.Reactive.dll
+/home/ermias/Documents/Codes/csharp/tmp/MyLibraryApp/bin/Debug/net9.0/Tmds.DBus.Protocol.dll
+/home/ermias/Documents/Codes/csharp/tmp/MyLibraryApp/bin/Debug/net9.0/runtimes/win-arm64/native/av_libglesv2.dll
+/home/ermias/Documents/Codes/csharp/tmp/MyLibraryApp/bin/Debug/net9.0/runtimes/win-x64/native/av_libglesv2.dll
+/home/ermias/Documents/Codes/csharp/tmp/MyLibraryApp/bin/Debug/net9.0/runtimes/win-x86/native/av_libglesv2.dll
+/home/ermias/Documents/Codes/csharp/tmp/MyLibraryApp/bin/Debug/net9.0/runtimes/osx/native/libAvaloniaNative.dylib
+/home/ermias/Documents/Codes/csharp/tmp/MyLibraryApp/bin/Debug/net9.0/runtimes/linux-arm/native/libHarfBuzzSharp.so
+/home/ermias/Documents/Codes/csharp/tmp/MyLibraryApp/bin/Debug/net9.0/runtimes/linux-arm64/native/libHarfBuzzSharp.so
+/home/ermias/Documents/Codes/csharp/tmp/MyLibraryApp/bin/Debug/net9.0/runtimes/linux-musl-x64/native/libHarfBuzzSharp.so
+/home/ermias/Documents/Codes/csharp/tmp/MyLibraryApp/bin/Debug/net9.0/runtimes/linux-x64/native/libHarfBuzzSharp.so
+/home/ermias/Documents/Codes/csharp/tmp/MyLibraryApp/bin/Debug/net9.0/runtimes/osx/native/libHarfBuzzSharp.dylib
+/home/ermias/Documents/Codes/csharp/tmp/MyLibraryApp/bin/Debug/net9.0/runtimes/win-arm64/native/libHarfBuzzSharp.dll
+/home/ermias/Documents/Codes/csharp/tmp/MyLibraryApp/bin/Debug/net9.0/runtimes/win-x64/native/libHarfBuzzSharp.dll
+/home/ermias/Documents/Codes/csharp/tmp/MyLibraryApp/bin/Debug/net9.0/runtimes/win-x86/native/libHarfBuzzSharp.dll
+/home/ermias/Documents/Codes/csharp/tmp/MyLibraryApp/bin/Debug/net9.0/runtimes/linux-arm/native/libSkiaSharp.so
+/home/ermias/Documents/Codes/csharp/tmp/MyLibraryApp/bin/Debug/net9.0/runtimes/linux-arm64/native/libSkiaSharp.so
+/home/ermias/Documents/Codes/csharp/tmp/MyLibraryApp/bin/Debug/net9.0/runtimes/linux-musl-x64/native/libSkiaSharp.so
+/home/ermias/Documents/Codes/csharp/tmp/MyLibraryApp/bin/Debug/net9.0/runtimes/linux-x64/native/libSkiaSharp.so
+/home/ermias/Documents/Codes/csharp/tmp/MyLibraryApp/bin/Debug/net9.0/runtimes/osx/native/libSkiaSharp.dylib
+/home/ermias/Documents/Codes/csharp/tmp/MyLibraryApp/bin/Debug/net9.0/runtimes/win-arm64/native/libSkiaSharp.dll
+/home/ermias/Documents/Codes/csharp/tmp/MyLibraryApp/bin/Debug/net9.0/runtimes/win-x64/native/libSkiaSharp.dll
+/home/ermias/Documents/Codes/csharp/tmp/MyLibraryApp/bin/Debug/net9.0/runtimes/win-x86/native/libSkiaSharp.dll
+/home/ermias/Documents/Codes/csharp/tmp/MyLibraryApp/bin/Debug/net9.0/runtimes/browser-wasm/nativeassets/net9.0/e_sqlite3.a
+/home/ermias/Documents/Codes/csharp/tmp/MyLibraryApp/bin/Debug/net9.0/runtimes/linux-arm/native/libe_sqlite3.so
+/home/ermias/Documents/Codes/csharp/tmp/MyLibraryApp/bin/Debug/net9.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/home/ermias/Documents/Codes/csharp/tmp/MyLibraryApp/bin/Debug/net9.0/runtimes/linux-armel/native/libe_sqlite3.so
+/home/ermias/Documents/Codes/csharp/tmp/MyLibraryApp/bin/Debug/net9.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/home/ermias/Documents/Codes/csharp/tmp/MyLibraryApp/bin/Debug/net9.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/home/ermias/Documents/Codes/csharp/tmp/MyLibraryApp/bin/Debug/net9.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/home/ermias/Documents/Codes/csharp/tmp/MyLibraryApp/bin/Debug/net9.0/runtimes/linux-musl-s390x/native/libe_sqlite3.so
+/home/ermias/Documents/Codes/csharp/tmp/MyLibraryApp/bin/Debug/net9.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/home/ermias/Documents/Codes/csharp/tmp/MyLibraryApp/bin/Debug/net9.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+/home/ermias/Documents/Codes/csharp/tmp/MyLibraryApp/bin/Debug/net9.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/home/ermias/Documents/Codes/csharp/tmp/MyLibraryApp/bin/Debug/net9.0/runtimes/linux-x64/native/libe_sqlite3.so
+/home/ermias/Documents/Codes/csharp/tmp/MyLibraryApp/bin/Debug/net9.0/runtimes/linux-x86/native/libe_sqlite3.so
+/home/ermias/Documents/Codes/csharp/tmp/MyLibraryApp/bin/Debug/net9.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/home/ermias/Documents/Codes/csharp/tmp/MyLibraryApp/bin/Debug/net9.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/home/ermias/Documents/Codes/csharp/tmp/MyLibraryApp/bin/Debug/net9.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/home/ermias/Documents/Codes/csharp/tmp/MyLibraryApp/bin/Debug/net9.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/home/ermias/Documents/Codes/csharp/tmp/MyLibraryApp/bin/Debug/net9.0/runtimes/win-arm/native/e_sqlite3.dll
+/home/ermias/Documents/Codes/csharp/tmp/MyLibraryApp/bin/Debug/net9.0/runtimes/win-arm64/native/e_sqlite3.dll
+/home/ermias/Documents/Codes/csharp/tmp/MyLibraryApp/bin/Debug/net9.0/runtimes/win-x64/native/e_sqlite3.dll
+/home/ermias/Documents/Codes/csharp/tmp/MyLibraryApp/bin/Debug/net9.0/runtimes/win-x86/native/e_sqlite3.dll
+/home/ermias/Documents/Codes/csharp/tmp/MyLibraryApp/obj/Debug/net9.0/MyLibrary.csproj.AssemblyReference.cache
+/home/ermias/Documents/Codes/csharp/tmp/MyLibraryApp/obj/Debug/net9.0/Avalonia/Resources.Inputs.cache
+/home/ermias/Documents/Codes/csharp/tmp/MyLibraryApp/obj/Debug/net9.0/Avalonia/resources
+/home/ermias/Documents/Codes/csharp/tmp/MyLibraryApp/obj/Debug/net9.0/MyLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/home/ermias/Documents/Codes/csharp/tmp/MyLibraryApp/obj/Debug/net9.0/MyLibrary.AssemblyInfoInputs.cache
+/home/ermias/Documents/Codes/csharp/tmp/MyLibraryApp/obj/Debug/net9.0/MyLibrary.AssemblyInfo.cs
+/home/ermias/Documents/Codes/csharp/tmp/MyLibraryApp/obj/Debug/net9.0/MyLibrary.csproj.CoreCompileInputs.cache
+/home/ermias/Documents/Codes/csharp/tmp/MyLibraryApp/obj/Debug/net9.0/MyLibrary.csproj.Up2Date
+/home/ermias/Documents/Codes/csharp/tmp/MyLibraryApp/obj/Debug/net9.0/MyLibrary.dll
+/home/ermias/Documents/Codes/csharp/tmp/MyLibraryApp/obj/Debug/net9.0/refint/MyLibrary.dll
+/home/ermias/Documents/Codes/csharp/tmp/MyLibraryApp/obj/Debug/net9.0/MyLibrary.pdb
+/home/ermias/Documents/Codes/csharp/tmp/MyLibraryApp/obj/Debug/net9.0/MyLibrary.genruntimeconfig.cache
+/home/ermias/Documents/Codes/csharp/tmp/MyLibraryApp/obj/Debug/net9.0/ref/MyLibrary.dll
+C:\Users\hp\Downloads\Telegram Desktop\MyLibraryApp\bin\Debug\net9.0\MyLibrary.exe
+C:\Users\hp\Downloads\Telegram Desktop\MyLibraryApp\bin\Debug\net9.0\MyLibrary.deps.json
+C:\Users\hp\Downloads\Telegram Desktop\MyLibraryApp\bin\Debug\net9.0\MyLibrary.runtimeconfig.json
+C:\Users\hp\Downloads\Telegram Desktop\MyLibraryApp\bin\Debug\net9.0\MyLibrary.dll
+C:\Users\hp\Downloads\Telegram Desktop\MyLibraryApp\bin\Debug\net9.0\MyLibrary.pdb
+C:\Users\hp\Downloads\Telegram Desktop\MyLibraryApp\bin\Debug\net9.0\Avalonia.Base.dll
+C:\Users\hp\Downloads\Telegram Desktop\MyLibraryApp\bin\Debug\net9.0\Avalonia.Controls.dll
+C:\Users\hp\Downloads\Telegram Desktop\MyLibraryApp\bin\Debug\net9.0\Avalonia.DesignerSupport.dll
+C:\Users\hp\Downloads\Telegram Desktop\MyLibraryApp\bin\Debug\net9.0\Avalonia.Dialogs.dll
+C:\Users\hp\Downloads\Telegram Desktop\MyLibraryApp\bin\Debug\net9.0\Avalonia.Markup.Xaml.dll
+C:\Users\hp\Downloads\Telegram Desktop\MyLibraryApp\bin\Debug\net9.0\Avalonia.Markup.dll
+C:\Users\hp\Downloads\Telegram Desktop\MyLibraryApp\bin\Debug\net9.0\Avalonia.Metal.dll
+C:\Users\hp\Downloads\Telegram Desktop\MyLibraryApp\bin\Debug\net9.0\Avalonia.MicroCom.dll
+C:\Users\hp\Downloads\Telegram Desktop\MyLibraryApp\bin\Debug\net9.0\Avalonia.OpenGL.dll
+C:\Users\hp\Downloads\Telegram Desktop\MyLibraryApp\bin\Debug\net9.0\Avalonia.Vulkan.dll
+C:\Users\hp\Downloads\Telegram Desktop\MyLibraryApp\bin\Debug\net9.0\Avalonia.dll
+C:\Users\hp\Downloads\Telegram Desktop\MyLibraryApp\bin\Debug\net9.0\Avalonia.Controls.ColorPicker.dll
+C:\Users\hp\Downloads\Telegram Desktop\MyLibraryApp\bin\Debug\net9.0\Avalonia.Controls.DataGrid.dll
+C:\Users\hp\Downloads\Telegram Desktop\MyLibraryApp\bin\Debug\net9.0\Avalonia.Desktop.dll
+C:\Users\hp\Downloads\Telegram Desktop\MyLibraryApp\bin\Debug\net9.0\Avalonia.Diagnostics.dll
+C:\Users\hp\Downloads\Telegram Desktop\MyLibraryApp\bin\Debug\net9.0\Avalonia.Fonts.Inter.dll
+C:\Users\hp\Downloads\Telegram Desktop\MyLibraryApp\bin\Debug\net9.0\Avalonia.FreeDesktop.dll
+C:\Users\hp\Downloads\Telegram Desktop\MyLibraryApp\bin\Debug\net9.0\Avalonia.Native.dll
+C:\Users\hp\Downloads\Telegram Desktop\MyLibraryApp\bin\Debug\net9.0\Avalonia.ReactiveUI.dll
+C:\Users\hp\Downloads\Telegram Desktop\MyLibraryApp\bin\Debug\net9.0\Avalonia.Remote.Protocol.dll
+C:\Users\hp\Downloads\Telegram Desktop\MyLibraryApp\bin\Debug\net9.0\Avalonia.Skia.dll
+C:\Users\hp\Downloads\Telegram Desktop\MyLibraryApp\bin\Debug\net9.0\Avalonia.Themes.Fluent.dll
+C:\Users\hp\Downloads\Telegram Desktop\MyLibraryApp\bin\Debug\net9.0\Avalonia.Themes.Simple.dll
+C:\Users\hp\Downloads\Telegram Desktop\MyLibraryApp\bin\Debug\net9.0\Avalonia.Win32.Automation.dll
+C:\Users\hp\Downloads\Telegram Desktop\MyLibraryApp\bin\Debug\net9.0\Avalonia.Win32.dll
+C:\Users\hp\Downloads\Telegram Desktop\MyLibraryApp\bin\Debug\net9.0\Avalonia.X11.dll
+C:\Users\hp\Downloads\Telegram Desktop\MyLibraryApp\bin\Debug\net9.0\CommunityToolkit.Mvvm.dll
+C:\Users\hp\Downloads\Telegram Desktop\MyLibraryApp\bin\Debug\net9.0\DynamicData.dll
+C:\Users\hp\Downloads\Telegram Desktop\MyLibraryApp\bin\Debug\net9.0\HarfBuzzSharp.dll
+C:\Users\hp\Downloads\Telegram Desktop\MyLibraryApp\bin\Debug\net9.0\MicroCom.Runtime.dll
+C:\Users\hp\Downloads\Telegram Desktop\MyLibraryApp\bin\Debug\net9.0\Microsoft.Data.Sqlite.dll
+C:\Users\hp\Downloads\Telegram Desktop\MyLibraryApp\bin\Debug\net9.0\ReactiveUI.dll
+C:\Users\hp\Downloads\Telegram Desktop\MyLibraryApp\bin\Debug\net9.0\SkiaSharp.dll
+C:\Users\hp\Downloads\Telegram Desktop\MyLibraryApp\bin\Debug\net9.0\Splat.dll
+C:\Users\hp\Downloads\Telegram Desktop\MyLibraryApp\bin\Debug\net9.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\hp\Downloads\Telegram Desktop\MyLibraryApp\bin\Debug\net9.0\SQLitePCLRaw.core.dll
+C:\Users\hp\Downloads\Telegram Desktop\MyLibraryApp\bin\Debug\net9.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\hp\Downloads\Telegram Desktop\MyLibraryApp\bin\Debug\net9.0\System.Reactive.dll
+C:\Users\hp\Downloads\Telegram Desktop\MyLibraryApp\bin\Debug\net9.0\Tmds.DBus.Protocol.dll
+C:\Users\hp\Downloads\Telegram Desktop\MyLibraryApp\bin\Debug\net9.0\runtimes\win-arm64\native\av_libglesv2.dll
+C:\Users\hp\Downloads\Telegram Desktop\MyLibraryApp\bin\Debug\net9.0\runtimes\win-x64\native\av_libglesv2.dll
+C:\Users\hp\Downloads\Telegram Desktop\MyLibraryApp\bin\Debug\net9.0\runtimes\win-x86\native\av_libglesv2.dll
+C:\Users\hp\Downloads\Telegram Desktop\MyLibraryApp\bin\Debug\net9.0\runtimes\osx\native\libAvaloniaNative.dylib
+C:\Users\hp\Downloads\Telegram Desktop\MyLibraryApp\bin\Debug\net9.0\runtimes\linux-arm\native\libHarfBuzzSharp.so
+C:\Users\hp\Downloads\Telegram Desktop\MyLibraryApp\bin\Debug\net9.0\runtimes\linux-arm64\native\libHarfBuzzSharp.so
+C:\Users\hp\Downloads\Telegram Desktop\MyLibraryApp\bin\Debug\net9.0\runtimes\linux-musl-x64\native\libHarfBuzzSharp.so
+C:\Users\hp\Downloads\Telegram Desktop\MyLibraryApp\bin\Debug\net9.0\runtimes\linux-x64\native\libHarfBuzzSharp.so
+C:\Users\hp\Downloads\Telegram Desktop\MyLibraryApp\bin\Debug\net9.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+C:\Users\hp\Downloads\Telegram Desktop\MyLibraryApp\bin\Debug\net9.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+C:\Users\hp\Downloads\Telegram Desktop\MyLibraryApp\bin\Debug\net9.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+C:\Users\hp\Downloads\Telegram Desktop\MyLibraryApp\bin\Debug\net9.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+C:\Users\hp\Downloads\Telegram Desktop\MyLibraryApp\bin\Debug\net9.0\runtimes\linux-arm\native\libSkiaSharp.so
+C:\Users\hp\Downloads\Telegram Desktop\MyLibraryApp\bin\Debug\net9.0\runtimes\linux-arm64\native\libSkiaSharp.so
+C:\Users\hp\Downloads\Telegram Desktop\MyLibraryApp\bin\Debug\net9.0\runtimes\linux-musl-x64\native\libSkiaSharp.so
+C:\Users\hp\Downloads\Telegram Desktop\MyLibraryApp\bin\Debug\net9.0\runtimes\linux-x64\native\libSkiaSharp.so
+C:\Users\hp\Downloads\Telegram Desktop\MyLibraryApp\bin\Debug\net9.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\hp\Downloads\Telegram Desktop\MyLibraryApp\bin\Debug\net9.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\hp\Downloads\Telegram Desktop\MyLibraryApp\bin\Debug\net9.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\hp\Downloads\Telegram Desktop\MyLibraryApp\bin\Debug\net9.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\hp\Downloads\Telegram Desktop\MyLibraryApp\bin\Debug\net9.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+C:\Users\hp\Downloads\Telegram Desktop\MyLibraryApp\bin\Debug\net9.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\hp\Downloads\Telegram Desktop\MyLibraryApp\bin\Debug\net9.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\hp\Downloads\Telegram Desktop\MyLibraryApp\bin\Debug\net9.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\hp\Downloads\Telegram Desktop\MyLibraryApp\bin\Debug\net9.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\hp\Downloads\Telegram Desktop\MyLibraryApp\bin\Debug\net9.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\hp\Downloads\Telegram Desktop\MyLibraryApp\bin\Debug\net9.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\hp\Downloads\Telegram Desktop\MyLibraryApp\bin\Debug\net9.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+C:\Users\hp\Downloads\Telegram Desktop\MyLibraryApp\bin\Debug\net9.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\hp\Downloads\Telegram Desktop\MyLibraryApp\bin\Debug\net9.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\hp\Downloads\Telegram Desktop\MyLibraryApp\bin\Debug\net9.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\hp\Downloads\Telegram Desktop\MyLibraryApp\bin\Debug\net9.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\hp\Downloads\Telegram Desktop\MyLibraryApp\bin\Debug\net9.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\hp\Downloads\Telegram Desktop\MyLibraryApp\bin\Debug\net9.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\hp\Downloads\Telegram Desktop\MyLibraryApp\bin\Debug\net9.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\hp\Downloads\Telegram Desktop\MyLibraryApp\bin\Debug\net9.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\hp\Downloads\Telegram Desktop\MyLibraryApp\bin\Debug\net9.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\hp\Downloads\Telegram Desktop\MyLibraryApp\bin\Debug\net9.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\hp\Downloads\Telegram Desktop\MyLibraryApp\bin\Debug\net9.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\hp\Downloads\Telegram Desktop\MyLibraryApp\bin\Debug\net9.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\hp\Downloads\Telegram Desktop\MyLibraryApp\bin\Debug\net9.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\hp\Downloads\Telegram Desktop\MyLibraryApp\obj\Debug\net9.0\MyLibrary.csproj.AssemblyReference.cache
+C:\Users\hp\Downloads\Telegram Desktop\MyLibraryApp\obj\Debug\net9.0\Avalonia\Resources.Inputs.cache
+C:\Users\hp\Downloads\Telegram Desktop\MyLibraryApp\obj\Debug\net9.0\Avalonia\resources
+C:\Users\hp\Downloads\Telegram Desktop\MyLibraryApp\obj\Debug\net9.0\MyLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Downloads\Telegram Desktop\MyLibraryApp\obj\Debug\net9.0\MyLibrary.AssemblyInfoInputs.cache
+C:\Users\hp\Downloads\Telegram Desktop\MyLibraryApp\obj\Debug\net9.0\MyLibrary.AssemblyInfo.cs
+C:\Users\hp\Downloads\Telegram Desktop\MyLibraryApp\obj\Debug\net9.0\MyLibrary.csproj.CoreCompileInputs.cache
+C:\Users\hp\Downloads\Telegram Desktop\MyLibraryApp\obj\Debug\net9.0\MyLibrary.csproj.Up2Date
+C:\Users\hp\Downloads\Telegram Desktop\MyLibraryApp\obj\Debug\net9.0\MyLibrary.dll
+C:\Users\hp\Downloads\Telegram Desktop\MyLibraryApp\obj\Debug\net9.0\refint\MyLibrary.dll
+C:\Users\hp\Downloads\Telegram Desktop\MyLibraryApp\obj\Debug\net9.0\MyLibrary.pdb
+C:\Users\hp\Downloads\Telegram Desktop\MyLibraryApp\obj\Debug\net9.0\MyLibrary.genruntimeconfig.cache
+C:\Users\hp\Downloads\Telegram Desktop\MyLibraryApp\obj\Debug\net9.0\ref\MyLibrary.dll
